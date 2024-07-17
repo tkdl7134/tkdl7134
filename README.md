@@ -1,5 +1,8 @@
 <p align="center">
-  <h2 align="center">⌨️ Welcome to Koni's Github </h2>
+  <h1 align="center">🌍 Welcome to Koni's Github 🌍</h1>
+</p>
+<p align="center">
+  <h3 align="center">🚶🚶‍♂🚶‍♀🏃🏃‍♂🏃‍♀🛫🛬🗾</h3>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to+Koni's+GitHub!; My+name+is+TaeKon+Lee!;I'm+currently+learning+Spring_Tool!;I+wanna+be+developer!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
