@@ -45,6 +45,13 @@
   <a href="mailto:leetaekoni@gmail.com">
     <img
       src="https://img.shields.io/badge/leetaekoni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-  
+  </a>  
+</div>
+
+<br>
+
+<h3 align="center"> 🧐 Statistics 🧐</h3>
+<div align="center">
+  <img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tkdl7134&theme=tokyonight" width="400px" style="height: 150%;" />
+  <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkdl7134&theme=nord_dark" width="500px" style="height: 150%;" />
 </div>
